@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DASUT</string>
+
+        <string name="title_activity_welcome">Home Screen</string>
+        <string name="next">NEXT</string>
+        <string name="skip">SKIP</string>
+        <string name="start">GOT IT</string>
+
+        <string name="slide_1_title">Hello there!</string>
+        <string name="slide_1_desc">Thank you for installing DASUT \n- a research project undertaken by a few inquisitive minds, who wish to study trends of smartphone services\' usage.</string>
+
+        <string name="slide_2_title">A Helping Hand</string>
+        <string name="slide_2_desc">Data is the new oil, and that\'s exactly how the next generation of intelligent services will serve us better. Help us understand that intelligence.</string>
+
+        <string name="slide_3_title">Anonymity Assured</string>
+        <string name="slide_3_desc">The app will collect nominal data which will help us study the trends of usage of services and applications in a smartphone. No personal data will be misused. Pinky Promise.</string>
+
+        <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+        <string name="play_again">Play Again</string>
+    </resources>
+

@@ -1,0 +1,13 @@
+Google Maps  
+MakeMyTrip-Flights Hotels Cabs  
+trivago-Hotels & Travel  
+redBus-Bus and Hotel Booking  
+TripAdvisor Hotels Restaurant  
+Cleartrip-Flights,Hotels,Activities,Dineout  
+Yatra-Flights Hotels Bus IRCTC/Trains & Ola/Uber  
+Ola Cabs  
+Uber  
+Meru Cabs  
+ZoomCar  
+ZipCar  
+Sample Location  

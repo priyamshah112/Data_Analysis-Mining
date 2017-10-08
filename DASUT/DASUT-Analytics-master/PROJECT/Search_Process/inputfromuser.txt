@@ -1,0 +1,31 @@
+1. SwiftKey Keyboard - v816120293
+2. WhatsApp - v451756
+3. Pixel Icon Pack - v42
+4. Browser - v20170626
+5. Amazon Shopping - v116434310
+6. mab - v125
+7. Flipkart - v780600
+8. Google Indic Keyboard - v3240613
+9. Wallpaper Carousel - v2016120800
+10. Music - v82
+11. Hotstar - v257
+12. OlaCabs - v4040310
+13. MCAN Final - v1
+14. Mi Remote - v530
+15. SHAREit - v4030818
+16. Cornerfly - v20
+17. Mobile Device Information Provider - v2910
+18. KLO Bugreport - v10045
+19. Pixel Launcher - v31
+20. Mi Community - v20001
+21. SwiftKey factory settings - v268438544
+22. N.O.V.A. Legacy - v30620
+23. Facebook - v65300723
+24. Messenger - v65526846
+25. News - v20001034
+26. DASUT - v1
+27. Mi Store - v20301
+28. Share Contacts - v20
+29. MyAppSharer - v34
+30. SwiftKey Preloaded Languages - v0
+31. WPS Office - v137

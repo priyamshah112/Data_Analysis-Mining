@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:fillViewport="false"
+    android:background="#ffffff">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.apk.dasut.MainActivity">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="26sp"
+            android:textColor="#ca00bcd4"
+            android:paddingLeft="10dp"
+            android:text="Demographic Analysis of Service Usage Trends \n----------------------------------------" />
+
+        <TextView
+            android:id="@+id/data_collected"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="21sp"
+            android:textColor="#ca00bcd4"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:textStyle="italic"
+            android:text="Following Data will be collected, please grant the requested permissions and hit the send button. " />
+
+        <TextView
+            android:id="@+id/android_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="21sp"
+            android:textColor="#ca00bcd4"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="1. Android ID " />
+
+        <TextView
+            android:id="@+id/phone_details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00bcd4"
+            android:textSize="21sp"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="2. Manufacturer, OS, Model number " />
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="21sp"
+            android:textColor="#ca00bcd4"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="3. Email account ID" />
+
+        <TextView
+            android:id="@+id/email2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00bcd4"
+            android:textSize="21sp"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="4. List of apps installed " />
+
+        <TextView
+            android:id="@+id/device"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="21sp"
+            android:textColor="#ca00bcd4"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="5. WiFi Speed " />
+
+        <TextView
+            android:id="@+id/device2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#00bcd4"
+            android:textSize="21sp"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="6. Location " />
+
+        <TextView
+            android:id="@+id/wifi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="21sp"
+            android:textColor="#ca00bcd4"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:text="7. Music Playlist " />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@+id/linearLayout"
+            android:paddingTop="20dp"
+            android:paddingLeft="10dp"
+            android:paddingBottom="20dp"
+            android:layout_centerHorizontal="true">
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="#00bcd4"
+                android:id="@+id/send_data" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Send me a copy of data"
+                android:textAlignment="center"
+                android:textColor="#00bcd4"
+                android:textSize="@dimen/slide_desc" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/push"
+            style="@style/Widget.AppCompat.Button.Colored"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:text="SEND" />
+
+
+    </LinearLayout>
+
+</ScrollView>

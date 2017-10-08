@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407170602363",
+    "firebase_url": "https://dasut-462eb.firebaseio.com",
+    "project_id": "dasut-462eb",
+    "storage_bucket": "dasut-462eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407170602363:android:f7727b8edb929253",
+        "android_client_info": {
+          "package_name": "com.example.apk.dasut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407170602363-j17ijpb6919em9gf2n61pmmvsvs5eoe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apk.dasut",
+            "certificate_hash": "2ae9c61ae1ba52614012f9d9e8a4daaf50eb79b4"
+          }
+        },
+        {
+          "client_id": "407170602363-rlem4as40bm8gcj8rdmtt945uo20kv17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3IRaqXAK316uko1GK9Ga1CBNEuY5Nko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407170602363-rlem4as40bm8gcj8rdmtt945uo20kv17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
